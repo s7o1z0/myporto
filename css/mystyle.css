@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
+
+body{
+	height: 2000px;
+	max-width: 100vw;
+	font-family: 'Teko', sans-serif;
+
+}
+
+h2{
+	display: inline-block;
+	border-bottom: 5px solid rgba(235, 235, 235, 1);
+}
+
+.swing{
+	animation-delay: 500ms;
+}
+/*---------------COLOR-------------*/
+.text-bluelight{
+	color: rgba(0, 129, 235, 1);
+}
+.text-darkgrey{
+	color: rgba(50, 50, 50, 1);
+}
+
+.navbar{
+	background-color: rgba(16, 31, 40, 0.83);
+	border: none;
+
+}
+
+#top-header{
+	background-color: #E6E1D1;
+	/*background-image: url('https://i.ytimg.com/vi/1vXj-eT3rF4/maxresdefault.jpg');*/
+	height: 100vh;
+	visibility: visible;
+}
+
+.header-content{
+	text-align: center;
+	padding-top: 20vh;	
+}
+.header-content h1{
+	font-size: 9em;
+}
+.header-content h2{
+	font-size: 4em;
+}
+
+.header-content i{
+	color: rgba(62, 66, 65, 0.98);
+}
+.header-content i:hover{
+	color: rgba(120, 120, 120, 1);
+	transition: color 0.5s;
+}
+.header-content .fa{
+	font-size: 30px;
+	padding-right: 2px;
+}
+.btn-aboutme{
+	background-color: rgba(62, 66, 65, 0.98);
+	color: rgba(235, 235, 235, 1);
+	margin-top: 20px;
+	border: none;
+}
+
+.header-content button:hover{
+background-color: rgba(120, 120, 120, 1);
+color: rgba(235, 235, 235, 1) ;
+transition: background-color 0.5s;
+}
+
+
+/*ABOUT ME ??????????????????????????????????*/
+#aboutme{
+	background-color: #548FD0;
+	/*background-image: url('http://wallpapercave.com/wp/Uy0A7zP.jpg');*/
+	height:100vh;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.aboutsec{
+	color: rgba(235, 235, 235, 1);
+	font-size: 1.5em;
+}
+
+.main-content{
+	padding-top: 20px;
+}
+.main-content h2{
+	padding-bottom: 0px;
+	margin-top: 50px;
+	margin-bottom: 0px; 
+	display: inline-block;
+	border-bottom: 5px solid rgba(50, 50, 50, 1);
+}
+
+h4{
+	font-size: 20px	;
+	padding-top: 0px;
+	margin-bottom: 50px;
+}
+
+.row{
+	padding-top: 20px;
+	padding-right: 110px;
+	padding-left: 110px;
+	margin-bottom:25px;
+}
+
+.row .p-main{
+	padding-right: 40px;
+	padding-left: 40px;
+	font: 20px 'Zilla Slab', Arial, Helvetica, sans-serif;
+}
+
+.row .body h4,h5,p{
+	font-family: 'Zilla Slab';
+	font-size: 20px;
+}
+.row .body h4{
+	margin-bottom: 0px;
+}
+
+.progress{
+	padding-top: 0px;
+	margin-top: -12px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#contact{
+	background-color: #E4E4E4;
+	height:75vh;
+}
+
+#contact-2{
+	background-color: #454545;
+	height:25vh;
+}
+
+#contact-2 .workflow{
+	padding-top:10px;
+	color:#E4E4E4;
+}
+.workflow p{
+	color:#111111;
+}
+.bg-red1{
+	background-color: #8C342C;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-red2{
+	background-color: #954F27;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-yellow1{
+	background-color: #967920;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-yellow2{
+	background-color: #96962B;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-green1{
+	background-color: #69882A;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-green2{
+	background-color: #2E7C26;
+	height: 20vh;
+	margin-top:0px;
+}
+
+.bg-green{
+	background-color: #3A8A04;
+	height: 20vh;
+	margin-top:0px;
+}
