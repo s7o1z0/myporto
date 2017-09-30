@@ -131,9 +131,17 @@ h4{
 	margin-right: 50px;
 }
 
+/*----------------CONTACT-----------------*/
+
+
 #contact{
 	background-color: #E4E4E4;
 	height:75vh;
+}
+
+.profile-pic{
+	border-radius: 30px 70px 30px 70px;
+
 }
 
 #contact-2{
