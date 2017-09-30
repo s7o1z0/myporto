@@ -156,6 +156,14 @@ h4{
 .workflow p{
 	color:#111111;
 }
+
+.img-circle{
+	border-radius: 40px 90px;
+}
+.profile-pic{
+	bottom: 45px;
+}
+
 .bg-red1{
 	background-color: #8C342C;
 	height: 20vh;
